@@ -23,6 +23,7 @@ I would appreciate content indication :smile:
 - [Rethinking Classical Concurrency Patterns](https://www.youtube.com/watch?v=5zXAHh5tJqQ) - [Bryan C. Mills](https://github.com/bcmills)
 - [Concurrency Patterns in Go](https://www.youtube.com/watch?v=rDRa23k70CU) - [Arne Claus](https://twitter.com/arnecls)
 - [Beating Threads - live coding with real time](https://www.youtube.com/watch?v=YlRTTzlhquo) - [Sam Aaron](https://twitter.com/samaaron)
+- [Better Code: Concurrency - Sean Parent](https://www.youtube.com/watch?v=zULU6Hhp42w) - [Sean Parent](https://sean-parent.stlab.cc/)
 
 
 #### Blog posts
