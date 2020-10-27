@@ -40,3 +40,6 @@ I would appreciate content indication :smile:
 - [Performance Under Load](https://medium.com/@NetflixTechBlog/performance-under-load-3e6fa9a60581)
 - [Netflix Engineering — Pilfering Innovation](https://medium.com/@autoletics/netflix-engineering-pilfering-innovation-c956f0b9212a)
 - [Fearless Concurrency in Firefox Quantum](https://blog.rust-lang.org/2017/11/14/Fearless-Concurrency-In-Firefox-Quantum.html)
+
+#### Resources
+- [KAIST CS492: Design and Analysis of Concurrent Programs](https://github.com/kaist-cp/cs492-concur)
